@@ -1,6 +1,6 @@
 {
   "name": "solana-mobile-dapp",
-  "main": "expo-router/entry",
+  "main": "App.js",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
@@ -17,6 +17,7 @@
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
     "@react-navigation/native": "^6.0.2",
+    "@solana/web3.js": "^1.95.3",
     "expo": "~51.0.28",
     "expo-constants": "~16.0.2",
     "expo-font": "~12.0.9",
